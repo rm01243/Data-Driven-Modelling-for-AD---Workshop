@@ -1,2 +1,2 @@
-# Data-Driven-Modelling-for-AD---Workshop
+# Data-Driven-Modelling-for-AD-Workshop
 Workshop for AI4AD Project
